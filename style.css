@@ -3,23 +3,39 @@ body{
     
 }
 header{
-    background-color: rgb(246, 246, 249);
+    background-color: rgb(242, 242, 248);
     display: flex;
+   
 
 }
+.jordannike{
+  padding-left: 20px;
+}
+
+
+
+
 header a {
   color: rgb(0, 0, 0);
   text-decoration: none;
 }
 
-.menus{
-padding-left: 1030px;
+.menu{
+  font-size: 12px;
+  padding-left: 1000px;
+  padding-top: 3.5px;
 }
+
+
 main{
   display:flex;
-  background-color: rgb(252, 252, 252);
+  background-color: rgb(255, 255, 255);
 
 }
+.nikelogo{
+padding-top: 5px;
+}
+
 
 main a{
   color: black;
@@ -28,20 +44,86 @@ padding-left: 20px;
 
 }
 
-.nikes{
-  padding-left: 102px;
-
+.gender{
+  align-self: center;
+  padding-left: 170px;
+  font-size: 14px;
+  
+}
+.list{
+  border: none;
 }
 
 .myinput {
-  background-position: 8px 10px; 
   font-size: 20px;
-  padding: 12px 20px 12px 40px; 
-  padding-left: 520px;
+  padding: 11px 20px 12px 40px; 
+  padding-left: 350px;
 
 } 
-
-.image{
-padding-left: 150px;
+.myinput input{
+  border-color: rgb(223, 217, 217);
+  /* font-size: 15px; */
+  padding: 6px;
+}
+div.myinput{
+  text-align: end;
 }
 
+.likelogo{
+  padding-top: 7px;
+}
+
+.image{
+padding-left: 30px;
+}
+
+div.text{
+  text-align: center;
+font-size: larger;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+div.text1{
+  text-align: center;
+}
+
+.shop{
+background-color: black;
+color: white;
+width: 120px;
+height: 40px;
+border-radius: 25%;
+align-items: center;
+}
+div.shop1{
+  text-align: center;
+}
+
+div.shopwork{
+  display: grid;
+  grid-template-rows: none;
+}
+
+footer h3{
+  text-align: start;
+}
+.styles .taka{
+  padding-right: 10px;
+}
+div h3{
+  text-align: start;
+}
+
+div.text2{
+  text-align: center;
+font-size: larger;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.shop2{
+  background-color: black;
+  color: white;
+  width: 80px;
+  height: 30px;
+  border-radius: 25%;
+ 
+  }
