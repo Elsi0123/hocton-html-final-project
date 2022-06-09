@@ -125,5 +125,49 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
   width: 80px;
   height: 30px;
   border-radius: 25%;
- 
   }
+
+  .air{
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-right: 10px;
+  }
+  .red{
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 10px;
+  }
+  .blue{
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+  }
+  div.more{
+    display: flex;
+    padding-top: 20px;
+    padding-left: 35px;
+   /* text-align: start; */
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  div.dollar{
+    padding-left: 130px;
+  }
+  .moore{
+    color: black;
+    text-decoration: none;
+  }
+  .dolla{
+    text-decoration: none;
+    color: black;
+  }
+  .redii{
+    text-decoration: none;
+    color: black;
+    padding-left: 53px;
+  }
+  .euuro{
+    text-decoration: none;
+    color: black;
+    padding-left: 150px;
+  }
+  
